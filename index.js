@@ -1,5 +1,5 @@
 // 使用promise
-// const Promise = require('./promise')
+const Promise = require('./promise')
 
 new Promise((resolve, reject) => {
   console.log('哈哈哈哈')
